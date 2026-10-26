@@ -2,6 +2,10 @@
 
 A small machine-learning project that estimates a student mental-health score from reported social-media habits, academic details, lifestyle, and stress level. The project includes a notebook for data exploration/model development, a FastAPI prediction service, and a browser-based form.
 
+# 🌐 live link:
+- frontend:  https://maansik-santulan-1.onrender.com/
+- backend :  https://maansik-santulan.onrender.com/
+
 > **Important:** This is an educational, informational estimate—not a diagnosis or a substitute for professional care.
 
 ## Project contents
